@@ -28,14 +28,17 @@ Optimization for different types of data processing tasks
 
 ## Environmental Considerations
 
-Measure and optimize energy consumption
-Implement efficient algorithms to reduce processing time
-Explore ways to use renewable energy sources for processing
+* Measure and optimize energy consumption
+  
+* Implement efficient algorithms to reduce processing time
+  
+* Preference to use renewable energy sources for processing
 
 ## Development Roadmap
 
-Implement basic CSV processing Lambda function
-Add field selection functionality
-Implement flexible output options
-Develop benchmarking and monitoring tools
-Expand to support additional file formats and data sources
+* Implement basic CSV processing Lambda function
+* Add field selection functionality
+* Implement flexible output options
+* Develop benchmarking and monitoring tools
+* Expand to support additional file formats and data sources
+* Add data processing skills , initial skill is field selection
