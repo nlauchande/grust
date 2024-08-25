@@ -1,5 +1,5 @@
 # grust
-Green serverless data processing using Rust for small and large files
+Open Source green serverless data processing using the most resource-efficient method(Rust) for small and large files, we are talking doing big data respecting the environment.
 
 
 # grust v0.01
