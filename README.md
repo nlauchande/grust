@@ -2,11 +2,14 @@
 
 ## Overview
 
-Open-source project
-Focus on environmentally friendly data processing
-Utilizes Rust for resource efficiency
-Targets both small and large files
-Version: 0.01
+Grust is an open-source project that focuses on environmentally friendly data processing. Key features include:
+
+* Built with Rust for maximum resource efficiency
+* Handles both small and large files efficiently
+* Designed with green computing principles
+* Serverless architecture for optimal resource utilization
+
+Version: 0.1.0
 
 ## Initial Architecture
 
@@ -41,4 +44,4 @@ Optimization for different types of data processing tasks
 * Implement flexible output options
 * Develop benchmarking and monitoring tools
 * Expand to support additional file formats and data sources
-* Add data processing skills , initial skill is field selection
+* Add data processing skills, initial skill is field selection
